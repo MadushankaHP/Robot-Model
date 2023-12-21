@@ -30,9 +30,12 @@ Before using this code, make sure you have the following installed:
       roslaunch jetbot_model display_jet_real.launch
       ```
    After running the launch file, you can import the robot model through the RViz view.As shown in the figure 1 below.
+   
    ![rviz_screenshot_2023_07_21-15_51_04](https://github.com/MadushankaHP/Robot-Model/assets/68281297/585af19e-efb3-4ec2-a6b6-e40954512f90)
 
+   Additionally, a demo video is available [here](https://youtu.be/1bNIfHKPuOc).
 
 
 3. Unity
+   
    
