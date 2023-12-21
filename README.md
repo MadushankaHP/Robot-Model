@@ -22,6 +22,7 @@ Before using this code, make sure you have the following installed:
 
 **Usage**
 1. ROS
+
    Launch the Robot model node:
       ```bash
       roslaunch jetbot_model display_jet_csi.launch
@@ -36,6 +37,6 @@ Before using this code, make sure you have the following installed:
    Additionally, a demo video is available [here](https://youtu.be/1bNIfHKPuOc).
 
 
-3. Unity
+2. Unity
    
    
